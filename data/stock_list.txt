@@ -1,0 +1,11 @@
+Company, Stock_name, Product_class
+NVIDIA, NVDA, GPU
+APPLE, AAPL, iPhone
+MICROSOFT, MSFT, Windows
+AMAZON, AMZN, E-commerce
+ALPHABET, GOOGL, Search Engine
+META, META, Social Media
+TESLA, TSLA, Electric Cars
+SAMSUNG, SSNLF, Smartphones
+TSMC, TSM, Semiconductors
+INTEL, INTC, Processors
