@@ -1,7 +1,6 @@
 import yfinance as yf
 import pandas as pd
 
-
 def get_stock_close(ticker: str) -> pd.DataFrame:
     '''Get the stock close prices for the last month.'''
     return (yf.Ticker(ticker)
