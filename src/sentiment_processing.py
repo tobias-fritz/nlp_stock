@@ -33,7 +33,7 @@ def process_sentiment(sentiment_1: List[str],
         positive_ratio_2=_min_max_normalize(result['positive_ratio_2'])
     )
 
-    return 
+    return result
 
 
 def _get_positive_ratio(sentiment: List[Dict[str, str]], 
